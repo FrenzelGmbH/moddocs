@@ -5,6 +5,9 @@ Hello, this repository is used to describe the functionality of our commom modul
 If you have questions or/and suggestions or wanna participate in the module development?!
 Feel free to collaborate!
 
+IMPORTANT THIS IS A WIKI!!!
+===========================
+
 Why?
 ====
 
